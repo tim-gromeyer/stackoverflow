@@ -2,3 +2,4 @@
 
 ## .
 ## A. B
+## German sharp s ß
