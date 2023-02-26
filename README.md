@@ -1,3 +1,5 @@
+[Linkt to section in another file](test.md#test)
+
 # Markdown heading identifier tests
 
 ## .
