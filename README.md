@@ -19,3 +19,6 @@ Some text
 ## `Bun.spawn` – spawn a process
 
 `Bun.spawn` lets you quickly spawn a process. Available as of Bun v0.2.0.
+
+2.3.0 / 2015-04-26
+==================
