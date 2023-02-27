@@ -24,3 +24,5 @@ Some text
 
 2.3.0 / 2015-04-26
 ==================
+
+### * tools/matchcompiler.py
